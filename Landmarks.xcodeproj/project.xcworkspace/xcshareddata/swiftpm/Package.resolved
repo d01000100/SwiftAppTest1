@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "swift-package-test-1",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/d01000100/swift-package-test-1",
+      "state" : {
+        "revision" : "cdc70f578443a5716922b06310b567f49c20db7f",
+        "version" : "0.0.5"
+      }
+    }
+  ],
+  "version" : 2
+}
